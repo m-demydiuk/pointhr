@@ -7,6 +7,15 @@
 .status-pending-review, .status-completed-sec1, .color-blue {
     color: #28abe3;
 }
+
+#auth.i9-block.wide{
+	max-width: 1170px;
+}
+
+#auth.i9-block.half-wide{
+	max-width: 960px;
+}
+
 .middle-text {
     font-family: Roboto;
     font-weight: 500;
